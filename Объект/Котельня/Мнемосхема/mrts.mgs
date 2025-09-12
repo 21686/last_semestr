@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>114:zA3ZPdzNeCF4F9bHF5gv6Cla</MnemoID>
+  <Width>1024</Width>
+  <Height>736</Height>
+  <IsBackGroundImage>true</IsBackGroundImage>
+  <PathBmp>_static.tiff</PathBmp>
+  <ColorBackGround>16777215</ColorBackGround>
+  <ColorBackGroundHTML>#ffffff</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:255 B:255</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+  <Item Type="Item">
+    <Id>{b4947b6a-6d3a-4fd8-af70-e0d3bd8b12e1}</Id>
+    <Name>Насос</Name>
+    <X>119</X>
+    <Y>36</Y>
+    <Width>30</Width>
+    <Height>30</Height>
+    <ControlProgId>{eefd6b4e-a3e1-4b3b-89c0-663156f2985b}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1200000024003100310035002e003100360038000000ff0300000c01000011020000110200000300000000000b00000013000000ff001300c0c0c0001300000000001300ffffff000300020000000b00b045080000000000020000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$115.168</Value>
+    </Property>
+  </Item>
+</Mnemoscheme>
