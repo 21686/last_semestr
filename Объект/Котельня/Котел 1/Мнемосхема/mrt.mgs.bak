@@ -46,4 +46,25 @@
       <Value>$168</Value>
     </Property>
   </Item>
+  <Item Type="Item">
+    <Id>{4c780734-6834-43ce-8e86-66fccf51ed4d}</Id>
+    <Name>Включить котел</Name>
+    <X>274</X>
+    <Y>452</Y>
+    <Width>187</Width>
+    <Height>62</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300e20c00000300460400000a000000240031003900320000000300210000000300f0f0f00003000200000003000100000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008001e0000001a043e04420435043b04200032044b043a043b044e04470435043d04000008001c0000001a043e04420435043b04200032043a043b044e04470435043d0400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff0800000000000800400000001a043e04420435043b044c043d044f042e001a043e04420435043b04200031002e0012043a043b044e044704380442044c0420003a043e04420435043b0400000b000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$192</Value>
+    </Property>
+  </Item>
 </Mnemoscheme>

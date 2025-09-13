@@ -1,2 +1,15 @@
 <?xml version="1.0"?>
-<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1" />
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1">
+  <Control Name="Рисунок Котла">
+    <Resource>котел.png</Resource>
+  </Control>
+  <Control Name="Рисунок Горелка">
+    <Resource>Горелка.png</Resource>
+  </Control>
+  <Control Name="Выбор изображения">
+    <Resource>Горелка выключена.png</Resource>
+    <Resource>Горелка продувка.png</Resource>
+    <Resource>Горелка включена.png</Resource>
+    <Resource>Горелка авария.png</Resource>
+  </Control>
+</Mnemoscheme>
